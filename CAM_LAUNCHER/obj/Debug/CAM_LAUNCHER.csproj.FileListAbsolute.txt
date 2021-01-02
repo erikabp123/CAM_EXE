@@ -1,0 +1,7 @@
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\obj\Debug\CAM_LAUNCHER.csprojAssemblyReference.cache
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\obj\Debug\CAM_LAUNCHER.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\bin\Debug\Classic Addon Manager.exe.config
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\bin\Debug\Classic Addon Manager.exe
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\bin\Debug\Classic Addon Manager.pdb
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\obj\Debug\Classic Addon Manager.exe
+C:\Users\erika\source\repos\Classic Addon Manager\Classic Addon Manager\CAM_LAUNCHER\obj\Debug\Classic Addon Manager.pdb
